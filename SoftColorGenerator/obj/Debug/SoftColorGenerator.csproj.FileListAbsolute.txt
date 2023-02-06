@@ -1,0 +1,12 @@
+c:\users\mark\documents\visual studio 2015\Projects\SoftColorGenerator\SoftColorGenerator\bin\Debug\SoftColorGenerator.exe.config
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\SoftColorGenerator\SoftColorGenerator\bin\Debug\SoftColorGenerator.exe
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\SoftColorGenerator\SoftColorGenerator\bin\Debug\SoftColorGenerator.pdb
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\SoftColorGenerator\SoftColorGenerator\obj\Debug\SoftColorGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\SoftColorGenerator\SoftColorGenerator\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\SoftColorGenerator\SoftColorGenerator\obj\Debug\SoftColorGenerator.Properties.Resources.resources
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\SoftColorGenerator\SoftColorGenerator\obj\Debug\SoftColorGenerator.csproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\SoftColorGenerator\SoftColorGenerator\obj\Debug\SoftColorGenerator.exe
+C:\Users\Mark\Documents\Visual Studio 2015\Projects\SoftColorGenerator\SoftColorGenerator\obj\Debug\SoftColorGenerator.pdb
+C:\Users\Mark\Dropbox\Personal\Miscellaneous\SoftColorGenerator\SoftColorGenerator\bin\Debug\SoftColorGenerator.exe.config
+C:\Users\Mark\Dropbox\Personal\Miscellaneous\SoftColorGenerator\SoftColorGenerator\obj\Debug\SoftColorGenerator.exe
+C:\Users\Mark\Dropbox\Personal\Miscellaneous\SoftColorGenerator\SoftColorGenerator\obj\Debug\SoftColorGenerator.pdb
